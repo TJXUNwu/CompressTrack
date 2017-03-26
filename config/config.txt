@@ -1,0 +1,3 @@
+directory = ../data/Basketball
+%bb = x y width height the following is for david sequence
+bb = 198 214 34 81 725
